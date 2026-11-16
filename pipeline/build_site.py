@@ -969,7 +969,7 @@ def build_page_html(slug, en_title, zh_title, md_content, all_slugs, is_index=Fa
             <div class="backlinks" style="margin-top:12px; display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
                 <span style="color:#555; font-size:0.75em;">Sources: </span>
                 __FOOTREFS__
-                <a href="https://github.com/parkergenesis008-commits/wasteland-webengine" style="color:#2a7a2a; font-size:0.75em; text-decoration:none;">GitHub Repository</a>
+                <a href="https://github.com/sunlose/wasteland-webengine" style="color:#2a7a2a; font-size:0.75em; text-decoration:none;">GitHub Repository</a>
             </div>
         </footer>
     </div>
