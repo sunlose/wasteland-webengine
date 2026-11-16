@@ -11,7 +11,7 @@ from datetime import datetime
 BASE_DIR = os.environ.get("WASTELAND_BASE_DIR") or os.path.expanduser("~/webengine")
 LORES_DIR = os.path.join(BASE_DIR, "content/lore")
 PAGES_DIR = os.path.join(BASE_DIR, "pages")
-SITE_URL = "https://parkergenesis008-commits.github.io/wasteland-webengine"
+SITE_URL = "https://sunlose.github.io/wasteland-webengine"
 ASSETS_URL = f"{SITE_URL}/assets"
 
 # ── 页面模板（2026-11-07 模板并回）──────────────────────────────────────

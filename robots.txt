@@ -21,4 +21,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://parkergenesis008-commits.github.io/wasteland-webengine/sitemap.xml
+Sitemap: https://sunlose.github.io/wasteland-webengine/sitemap.xml

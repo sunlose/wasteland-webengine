@@ -21,7 +21,7 @@ import os
 
 LOG_FILE = os.path.expanduser("~/.wasteland_geo_log.jsonl")
 WEEKLY_LOG = os.path.expanduser("~/.wasteland_google_search_log.jsonl")
-SITE_URL = "https://parkergenesis008-commits.github.io/wasteland-webengine"
+SITE_URL = "https://sunlose.github.io/wasteland-webengine"
 
 # ── 政策硬开关（2026-09-18, P0-2）─────────────────────────────
 # NOMAD_ENABLED 默认 "0"：不发任何网络请求。见文件头说明。
